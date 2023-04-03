@@ -3,7 +3,7 @@
 
 ## **INDICE**
 
-* [1.intro](https://github.com/lizetharmas22/Clonacion_Google/edit/main/README.md#indice)
+* [1.intro](https://github.com/lizetharmas22/Clonacion_Google/edit/main/README.md#1intro)
 * [2.Que construí](https://github.com/lizetharmas22/Clonacion_Google/edit/main/README.md#2qu%C3%A9-constru%C3%AD)
 * [3.Objetivo del proyecto](https://github.com/lizetharmas22/Clonacion_Google/edit/main/README.md#3-objetivo-del-proyecto)
 * [4.Link](https://github.com/lizetharmas22/Clonacion_Google/edit/main/README.md#4-link-a-demo)
